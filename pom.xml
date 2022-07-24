@@ -10,7 +10,7 @@
   </parent>
   <groupId>io.igorv404</groupId>
   <artifactId>bankhotel-backend-spring</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>bankhotel-backend-spring</name>
   <description>bankhotel-backend-spring</description>
   <properties>
