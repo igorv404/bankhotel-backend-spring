@@ -5,13 +5,13 @@ import io.igorv404.bankhotelbackendspring.models.Room;
 import io.igorv404.bankhotelbackendspring.services.BookingService;
 import io.igorv404.bankhotelbackendspring.services.RoomService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Collection;
 
-@RestController
+@Controller
 public class AdminController {
   private final RoomService roomService;
   private final BookingService bookingService;
