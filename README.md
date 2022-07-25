@@ -3,6 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/igorv404/bankhotel-backend-spring)](https://github.com/igorv404/bankhotel-backend-spring/issues)
 [![GitHub forks](https://img.shields.io/github/forks/igorv404/bankhotel-backend-spring)](https://github.com/igorv404/bankhotel-backend-spring/network)
 [![GitHub stars](https://img.shields.io/github/stars/igorv404/bankhotel-backend-spring)](https://github.com/igorv404/bankhotel-backend-spring/stargazers)
+[![GitHub license](https://img.shields.io/github/license/igorv404/bankhotel-backend-spring)](https://github.com/igorv404/bankhotel-backend-spring)
 
 ## Quick overview
 
